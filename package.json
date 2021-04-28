@@ -1,7 +1,7 @@
 {
-  "name": "random-d3-stuff",
+  "name": "d3-react-data-stuff",
   "version": "1.0.0",
-  "description": "trying some stuff",
+  "description": "trying some random stuff",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --mode development",
